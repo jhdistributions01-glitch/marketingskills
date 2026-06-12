@@ -78,6 +78,11 @@ Complete character limits, format requirements, and best practices for each ad p
 - **Right column**: Only headline visible; skip description
 - **Audience Network**: Varies by publisher
 
+**9:16 safe zones (unified for Stories + Reels, March 2026):**
+- Keep critical elements out of: top 14%, bottom 20–35%, sides 6%
+- Universal method: place all critical content within a centered 1080×1080 square on the 1080×1920 canvas — survives cropping across Feed, Stories, and Reels with one asset
+- 9:16 is the primary format (~90% of Meta inventory is vertical); produce 4:5 as secondary for Feed
+
 **Best practices:**
 - Front-load the hook in primary text (first 125 chars)
 - Use line breaks for readability in longer primary text
@@ -155,12 +160,23 @@ Complete character limits, format requirements, and best practices for each ad p
 | CTA button | Added by advertiser |
 | Display name | Original creator's handle |
 
+### Video Requirements (2026)
+
+| Spec | Value |
+|------|-------|
+| Format | 9:16 vertical, 1080×1920 |
+| File | MP4/MOV, H.264/H.265, ≥2,000 kbps, ≤500MB |
+| Duration | In-Feed: up to 10 min (optimal 15–34s). Spark Ads: no cap |
+| Safe zones | Top ~130px (status bar), bottom ~440px (caption/CTA), right ~44px (action buttons) |
+| Watermarks | Any external watermark = automatic rejection on non-Spark ads |
+
 **TikTok-specific guidelines:**
-- Native content outperforms polished ads
-- First 2 seconds determine if they watch
-- Use trending sounds and formats
-- Text overlay is essential (most watch with sound off)
+- Native content outperforms polished ads — "don't make ads, make TikToks"
+- First 3 seconds determine if they watch — open with motion, conflict, or a claim
+- Use trending sounds and formats — TikTok is a sound-ON platform (unlike Meta)
+- On-screen text: large, central, ≤6 words per frame
 - Vertical video only (9:16)
+- Spark Ads outperform standard in-feed (~2.4x CTR, ~1.4x CVR) — prefer them for direct response
 
 ---
 

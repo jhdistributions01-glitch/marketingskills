@@ -1,8 +1,8 @@
 ---
 name: ads
-description: "When the user wants help with paid advertising campaigns on Google Ads, Meta (Facebook/Instagram), LinkedIn, Twitter/X, or other ad platforms. Also use when the user mentions 'PPC,' 'paid media,' 'ROAS,' 'CPA,' 'ad campaign,' 'retargeting,' 'audience targeting,' 'Google Ads,' 'Facebook ads,' 'LinkedIn ads,' 'ad budget,' 'cost per click,' 'ad spend,' or 'should I run ads.' Use this for campaign strategy, audience targeting, bidding, and optimization. For bulk ad creative generation and iteration, see ad-creative. For landing page optimization, see cro."
+description: "When the user wants help with paid advertising campaigns on Google Ads, Meta (Facebook/Instagram), LinkedIn, Twitter/X, or other ad platforms. Also use when the user mentions 'PPC,' 'paid media,' 'ROAS,' 'CPA,' 'ad campaign,' 'retargeting,' 'audience targeting,' 'Google Ads,' 'Facebook ads,' 'LinkedIn ads,' 'ad budget,' 'cost per click,' 'ad spend,' or 'should I run ads.' Use this for cross-platform campaign strategy, budget allocation, and optimization. For platform-specific deep dives, see google-ads, meta-ads, or tiktok-ads. For bulk ad creative generation and iteration, see ad-creative. For landing page optimization, see cro."
 metadata:
-  version: 2.0.1
+  version: 2.1.0
 ---
 
 # Paid Ads
@@ -44,11 +44,13 @@ Gather this context (ask if not provided):
 
 | Platform | Best For | Use When |
 |----------|----------|----------|
-| **Google Ads** | High-intent search traffic | People actively search for your solution |
-| **Meta** | Demand generation, visual products | Creating demand, strong creative assets |
+| **Google Ads** | High-intent search traffic | People actively search for your solution. AI-heavy in 2026 (AI Max, PMax) — see **google-ads** skill |
+| **Meta** | Demand generation, visual products | Creating demand, strong creative assets. Creative-based delivery (Andromeda) — see **meta-ads** skill |
 | **LinkedIn** | B2B, decision-makers | Job title/company targeting matters, higher price points |
 | **Twitter/X** | Tech audiences, thought leadership | Audience is active on X, timely content |
-| **TikTok** | Younger demographics, viral creative | Audience skews 18-34, video capacity |
+| **TikTok** | Younger demographics, viral creative, TikTok Shop | CPMs ~40% below Meta; Smart+/GMV Max automation — see **tiktok-ads** skill |
+
+**Platform cost reality check (mid-2026 medians)**: Google Search CPC ~$3–4.20 (+12% YoY); Meta CPM ~$14 (+20% YoY), CPC ~$1.72; TikTok CPM ~$9, CPC ~$1. All platforms are inflating — efficiency now comes from creative quality and signal quality, not audience hacks.
 
 ---
 
@@ -73,9 +75,9 @@ Account
 [Platform]_[Objective]_[Audience]_[Offer]_[Date]
 
 Examples:
-META_Conv_Lookalike-Customers_FreeTrial_2024Q1
+META_Conv_Broad_FreeTrial_2026Q2
 GOOG_Search_Brand_Demo_Ongoing
-LI_LeadGen_CMOs-SaaS_Whitepaper_Mar24
+LI_LeadGen_CMOs-SaaS_Whitepaper_Jun26
 ```
 
 ### Budget Allocation
@@ -114,9 +116,10 @@ LI_LeadGen_CMOs-SaaS_Whitepaper_Mar24
 
 | Platform | Key Targeting | Best Signals |
 |----------|---------------|--------------|
-| Google | Keywords, search intent | What they're searching |
-| Meta | Interests, behaviors, lookalikes | Engagement patterns |
+| Google | Keywords, search intent (+ AI Max keywordless expansion) | What they're searching |
+| Meta | Broad + creative-based delivery (Andromeda); interests/lookalikes now secondary | Conversion signal + creative diversity |
 | LinkedIn | Job titles, companies, industries | Professional identity |
+| TikTok | Broad + creative-led; Smart+/GMV Max automation | Native-feeling creative + Events API signal |
 
 ### Key Concepts
 
@@ -172,10 +175,10 @@ LI_LeadGen_CMOs-SaaS_Whitepaper_Mar24
 
 **If CPA is too high:**
 1. Check landing page (is the problem post-click?)
-2. Tighten audience targeting
-3. Test new creative angles
+2. Test new creative angles (on Meta/TikTok in 2026, creative IS targeting — tightening audiences usually backfires)
+3. Check conversion signal quality (Pixel + server-side events, dedup, match quality)
 4. Improve ad relevance/quality score
-5. Adjust bid strategy
+5. Adjust bid strategy or targets (±10-15% at a time)
 
 **If CTR is low:**
 - Creative isn't resonating → test new hooks/angles
