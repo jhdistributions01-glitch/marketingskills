@@ -5,7 +5,7 @@ Current versions of all skills. Agents can compare against local versions to che
 | Skill | Version | Last Updated |
 |-------|---------|--------------|
 | ab-testing | 2.0.0 | 2026-05-05 |
-| ad-creative | 2.0.0 | 2026-05-05 |
+| ad-creative | 2.0.1 | 2026-06-12 |
 | ai-seo | 2.0.1 | 2026-05-18 |
 | analytics | 2.0.0 | 2026-05-05 |
 | aso | 2.0.0 | 2026-05-05 |
@@ -23,14 +23,16 @@ Current versions of all skills. Agents can compare against local versions to che
 | directory-submissions | 2.0.0 | 2026-05-05 |
 | emails | 2.0.0 | 2026-05-05 |
 | free-tools | 2.0.0 | 2026-05-05 |
+| google-ads | 1.0.0 | 2026-06-12 |
 | image | 2.0.1 | 2026-05-18 |
 | launch | 2.0.0 | 2026-05-05 |
 | lead-magnets | 2.0.0 | 2026-05-05 |
 | marketing-ideas | 2.0.0 | 2026-05-05 |
 | marketing-plan | 1.1.0 | 2026-05-29 |
 | marketing-psychology | 2.0.0 | 2026-05-05 |
+| meta-ads | 1.0.0 | 2026-06-12 |
 | onboarding | 2.0.0 | 2026-05-05 |
-| ads | 2.0.1 | 2026-05-26 |
+| ads | 2.1.0 | 2026-06-12 |
 | paywalls | 2.0.0 | 2026-05-05 |
 | popups | 2.0.0 | 2026-05-05 |
 | pricing | 2.0.0 | 2026-05-05 |
@@ -46,6 +48,7 @@ Current versions of all skills. Agents can compare against local versions to che
 | site-architecture | 2.0.0 | 2026-05-05 |
 | sms | 1.0.0 | 2026-05-21 |
 | social | 2.0.0 | 2026-05-05 |
+| tiktok-ads | 1.0.0 | 2026-06-12 |
 | video | 2.0.1 | 2026-05-18 |
 
 ## Recent Changes
