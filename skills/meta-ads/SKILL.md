@@ -124,6 +124,7 @@ When building campaigns, deliver:
 
 ## References
 
+- For a deep account audit with 250+ weighted checks, use the **claude-ads** plugin (ads-meta, ads-audit) if installed
 - For cross-platform budget allocation, see the **ads** skill
 - For bulk creative generation and UGC briefs, see the **ad-creative** skill
 - `references/benchmarks-2026.md` — detailed benchmark tables with sources

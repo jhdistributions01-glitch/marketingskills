@@ -132,6 +132,7 @@ When building campaigns, deliver:
 
 ## References
 
+- For a deep account audit with 250+ weighted checks, use the **claude-ads** plugin (ads-tiktok, ads-audit) if installed
 - For cross-platform budget allocation, see the **ads** skill
 - For creative generation and UGC briefs, see the **ad-creative** skill
 - For organic TikTok strategy, see the **social** skill

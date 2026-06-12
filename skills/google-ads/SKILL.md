@@ -131,5 +131,6 @@ When building campaigns, deliver:
 ## References
 
 - `references/benchmarks-2026.md` — detailed industry benchmark tables with sources
+- For a deep account audit with 250+ weighted checks, use the **claude-ads** plugin (ads-google, ads-audit) if installed
 - For cross-platform budget allocation, see the **ads** skill
 - For bulk creative generation, see the **ad-creative** skill
