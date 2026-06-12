@@ -170,7 +170,7 @@ Statistics increase AI citation rates by 15-30%. Always include sources.
 
 **Example:**
 ```markdown
-Mobile optimization is no longer optional for SEO success. According to Google's 2024 Core Web Vitals report, 70% of web traffic now comes from mobile devices, and pages failing mobile usability standards see 24% higher bounce rates. This makes mobile-first indexing a critical ranking factor.
+Mobile optimization is no longer optional for SEO success. According to Google's most recent Core Web Vitals reporting, the majority of web traffic now comes from mobile devices, and pages failing mobile usability standards see 24% higher bounce rates. This makes mobile-first indexing a critical ranking factor.
 ```
 
 ### Expert Quote Block

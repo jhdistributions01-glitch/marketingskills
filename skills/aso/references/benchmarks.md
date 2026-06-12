@@ -25,7 +25,7 @@ Industry data from AppTweak, SplitMetrics, Sensor Tower, and others. Updated Mar
 
 \*Above 100% = some users install from search without visiting product page.
 
-Source: AppTweak 2025 Benchmarks Report (H1 2024 data, US market)
+Source: AppTweak 2025 Benchmarks Report (H1 2024 data, US market — treat as baseline; check AppTweak for current-year report)
 
 ## Rating Impact on Conversion
 
@@ -83,7 +83,7 @@ Sources: AppTweak, ASOMobile, Sensor Tower
 - Average conversion lift: **+5.9% for apps**, **+3.5% for games**
 - Best cases: up to **+8.6%**
 - Organic referral: **+2.5 percentage points** (156% lift vs 1.6% baseline)
-- Apple Ads CPP CVR: **55.8% in 2024** (up from 42.1% in 2023)
+- Apple Ads CPP CVR: **55.8% in 2024** (up from 42.1% in 2023; trend continues upward — verify current year)
 - **Only 31% of apps** and **26% of games** use CPPs (low adoption = opportunity)
 - Screenshot reordering alone produced **+16.6% installs** in one case
 
