@@ -8,7 +8,7 @@
     "description": "Create and iterate paid ad copy, hooks, headlines, and visual or video concepts. Prepares creative tests with falsifiable hypotheses and approval-ready variations."
   },
   "ads": {
-    "source_description_sha256": "42d4b3a95829ab5dc70d68c8c077b863be168fc8dbe1e971f4c5d8737b10ce03",
+    "source_description_sha256": "c54fc7bb2dfa432ec60fd08ab9452d36a7dd8c80de4dda8a3f4dafee1509d921",
     "description": "Plan and optimize paid campaigns across Google, Meta, and LinkedIn: audiences, budgets, bidding, ROAS, CPA, and lead quality. Weekly checks end in one HOLD/FIX/TEST/INVESTIGATE call."
   },
   "ai-seo": {
@@ -16,7 +16,7 @@
     "description": "Improve AI search visibility, LLM citations, AEO/GEO, AI Overviews, and agent-readable site content; audit why AI answers overlook your brand."
   },
   "analytics": {
-    "source_description_sha256": "9a52bbb064c72f04050f5f8d3375e4eccf9ec231a7be52d40823a6de568dd6db",
+    "source_description_sha256": "e18a8bc80b57e466f2e256b20d90678b8cea57aa08af87a45b929cdeb1a21a6f",
     "description": "Set up or audit GA4, conversion events, UTMs, partner link patterns, and tracking plans. Computes metrics from row-level data and compares rates only over matching closed windows."
   },
   "aso": {
@@ -24,7 +24,7 @@
     "description": "Audit and optimize App Store or Google Play listings, app keywords, visibility, rankings, and listing conversion."
   },
   "attribution": {
-    "source_description_sha256": "01fdc33a6297f1e4606a52eec48c00ece9cc43db22ef2519ff90eed0785e81bb",
+    "source_description_sha256": "619168d09f7a8fcb273df85ff9414a45b2a560c63aff3e4476b3e069a60b06e8",
     "description": "Choose attribution models, reconcile revenue dashboards, and investigate channel impact using multi-touch, MMM, incrementality, and first-party attribution."
   },
   "churn-prevention": {
@@ -44,7 +44,7 @@
     "description": "Plan or grow a user community, forum, Discord, or Slack group; develop engagement, advocates, ambassadors, and community-led growth."
   },
   "competitor-profiling": {
-    "source_description_sha256": "3f165644d9ccb503da4cbf21ceb1b85e214054a409e5e63e77aaeca155cf78a3",
+    "source_description_sha256": "67829f69107f779e04a44714ce962c7398f5826e43fb3d35635c5b138d5d3ad8",
     "description": "Research competitors from URLs and build structured profiles, competitive intelligence, landscape analyses, and dossiers. Not for accounts you sell to."
   },
   "competitors": {
@@ -54,6 +54,10 @@
   "content-strategy": {
     "source_description_sha256": "602ac5599f4e6e51643d9caa4ccd3cb5429751987750b15cc39e9cba002a85e6",
     "description": "Plan content topics, pillars, clusters, editorial calendars, blog strategy, and content roadmaps before writing individual pieces."
+  },
+  "conversion-tracking": {
+    "source_description_sha256": "a84dea1ca5ad6a6cfb5bd2851c48ac05feae1af463f78ff927276ab8567fabb3",
+    "description": "Set up, audit, and fix conversion tracking from forms, bookings, and checkouts to Google Ads, Meta, GA4, LinkedIn, TikTok, and Microsoft Ads."
   },
   "copy-editing": {
     "source_description_sha256": "3d2e37bce6de1230991064d501775040a9fb1e5245f6fb01470ad162a6d7a39e",
@@ -103,6 +107,10 @@
     "source_description_sha256": "aecc5622c2d6a2d7f2adb039359152375e1bb7dba3b57117aa0f6a67d611c6e3",
     "description": "Plan lead magnets and content offers: ebooks, checklists, templates, gating, landing pages, and packaging a course or content library as an installable agent skill."
   },
+  "link-building": {
+    "source_description_sha256": "41c4fce1924387807bb8f0ec4d482d5e14cb7a4806de15e850362dd98727d4bb",
+    "description": "Earn backlinks and third-party mentions on pages search engines and AI assistants trust, without link spam."
+  },
   "marketing-council": {
     "source_description_sha256": "103f655a5584cfab3521597f218b44e4bf20181ca2231bf68e67da7c9481f101",
     "description": "Explore a marketing question through multiple documented expert frameworks; compare simulated advisor perspectives and synthesize their disagreements."
@@ -132,8 +140,8 @@
     "description": "Optimize post-signup activation, setup, first-run experience, empty states, aha moments, and time to value."
   },
   "paywalls": {
-    "source_description_sha256": "142a11cbc3835effdb8406e978efb631136365e57c8d9288adf2e7068f33631d",
-    "description": "Improve in-app paywalls, upgrade prompts, feature gates, trial-expiry screens, and freemium-to-paid conversion."
+    "source_description_sha256": "846c18b6361827cf6ab3e78f82dec2939dcc4d91a220346a01bb20c97ef971cb",
+    "description": "Improve in-app paywalls, upgrade prompts, feature gates, trial screens, and mobile subscription-app paywalls."
   },
   "popups": {
     "source_description_sha256": "71756773110b7bccc866f3e802ce94862787bc06d66f8f3884a1b4ee2f210968",
@@ -152,8 +160,8 @@
     "description": "Plan or build SEO pages at scale: templates, directories, locations, comparisons, integrations, and choosing a CMS or platform that can publish them."
   },
   "prospecting": {
-    "source_description_sha256": "09d4017158f32de61dd87f8cac1d396cca5f317877e7eca861da5901079db6a5",
-    "description": "Build and qualify prospect lists: ICP, buying signals, enrichment waterfalls, email verification and catch-alls, account tiers, and pre-outreach research."
+    "source_description_sha256": "41344c08167b646c11c61bc43ca680d071fc342ec1e61fd2248cf7c2a244cd29",
+    "description": "Build and qualify prospect lists: ICP, buying signals, gap plays, enrichment waterfalls, email verification and catch-alls, account tiers, and pre-outreach research."
   },
   "public-relations": {
     "source_description_sha256": "f61b65fb0370119ece6b4a3a2405a2c78ad3b801a0914e65867926e0d9eb86cd",
@@ -162,6 +170,10 @@
   "referrals": {
     "source_description_sha256": "7e42fb5573746882642f70abd8438f4167090decba14facb4fd6e1958a94573d",
     "description": "Design or improve referral, affiliate, and partner programs, plus review programs: getting more reviews, responding to them, and reusing testimonials."
+  },
+  "reverse-engineer-marketing": {
+    "source_description_sha256": "b542d1574cafdc78c6bc0ca080671f2c05f76c83d034cd6f61eb9d8f0b8fa017",
+    "description": "Reverse engineer how a company grew: its moves against its traffic, sign-ups and demos, team interviews, hidden signals, your gap, and plays routed to skills."
   },
   "revops": {
     "source_description_sha256": "63e21583a10d3e06f02aeb31293089ea6f2b811253bf9ffcc57e35e61581df5c",
