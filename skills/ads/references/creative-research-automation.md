@@ -50,8 +50,10 @@ Point the agent at a competitor's active paid creative and get back a structured
 | Messaging pillars | The 3–6 recurring angles/claims |
 | Inferred personas | Who each cluster of ads *appears* to target |
 | Top-10 by impressions | Ranked, with what each leans on |
+| **Longevity** | "En circulación desde" date and days running per ad, plus how many versions/variants it has. An ad running 60+ days with several variants is the strongest public signal of a winner; flag "impresiones bajas" ads as unproven |
+| Recurring words | Count key proof words across the brand's ads (e.g. contraentrega, tienda, envío, precio, garantía) to see what the market treats as table stakes |
 
-Useful follow-up in the same chat: *"where are these ranking by impressions?"* and *"which of these have been running longest?"* (longest-running ≈ proven winner). The **% partnership ads** and **creator partners** fields feed partnership/creator strategy; the **format split + duration** feeds the format taxonomy an ad brief starts from.
+Useful follow-up in the same chat: *"where are these ranking by impressions?"* and *"which of these have been running longest?"* (longest-running ≈ proven winner). **Outside the EU, the Ad Library API only returns political/issue ads**: for commercial advertisers in Colombia/LATAM use the web Ad Library in the browser. To see video frames without downloading, clone the `<video>` element at several `currentTime` values and screenshot once. The **% partnership ads** and **creator partners** fields feed partnership/creator strategy; the **format split + duration** feeds the format taxonomy an ad brief starts from.
 
 ## Workflow 2: Review → persona mapping
 

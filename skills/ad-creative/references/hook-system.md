@@ -65,7 +65,21 @@ A menu of proven opening structures. Cycle through them like the static template
 | **False assumption** | Challenge something the buyer believes they need: "You can cancel ClickFunnels" | Draws the strongest reactions, including angry ones; keep the body fair to the named product, and get legal review before naming a competitor in paid ads |
 | **Declaration, then question** | State what the audience already agrees with, then doubt it: "You need to spend $20K a month recruiting on Indeed. Or do you?" | The doubt needs a real answer in the body; still being tested by the practitioners who shared it (October 2026) |
 
-The last five are one family: **contrast**. People understand a thing by comparing it with something else, so a hook that sets up two states, two options, or two groups gives the viewer a question to stay for. That is also why AI copy leans on "it's not X, it's Y." The difference is that a good contrast hook compares two things the audience actually weighs, while the AI tell negates a claim nobody made (see the copywriting skill's AI-tells reference). Contrast hooks work best for educational content and decisions; for impulse products, lead with proof or POV instead.
+### Local and offer hooks (chat-sales SMBs, LATAM)
+
+Added 2026-11-03 from Zentra's own campaigns (Equipos360) and practitioner TikToks; evidence is practitioner opinion unless marked. Best for click-to-WhatsApp and physical-store businesses with small budgets (see `meta-ads/references/click-to-whatsapp-smb.md`).
+
+| Move | Shape | Watch out |
+|---|---|---|
+| **Place + problem** | "¿Estás en el Valle y buscas guadaña para tu finca?" Name where the viewer is and the job they need done | Localizing the same video per city does NOT add Andromeda diversity (Meta groups near-identical ads; see `ads/references/meta-andromeda-playbook.md`). Use place in the hook of a distinct concept, not as the variation axis |
+| **3 reasons** | Hook → 2 benefits + 1 differentiator (each line 7 words or fewer) → promise → CTA. E.g. "63 cc para monte alto · Eje rígido para trabajo duro · Tienda física en Palmira" | The differentiator must be real and specific to this business (physical store, inspect-on-delivery, advisor), not a category claim every competitor makes |
+| **Price in the hook** | Lead with the price or price range to filter curiosity seekers | Expect fewer chats and better chats; judge on sales per ad, not chat volume. Needs the owner's approval of public prices |
+| **One objection per ad** | Each ad answers one objection taken from the bot/WhatsApp chats (scam fear, cash on delivery, city coverage, price), not from comments | In chat-sales accounts the real objections live in the conversations; mine them weekly. Cash on delivery is table stakes in Colombia: use it as a fixed strip, not the headline |
+| **Store as proof** | Walkthrough of the real store and staff, product working in real terrain, unboxing at the counter | Avoid manufacturer logos for resellers (counterfeit-goods policy risk) |
+
+Avoid the "fake news / press release" opening that imitates a news outlet: Meta can reject it as misleading (see `meta-creative-formats.md`, formats D and F).
+
+The last five contrast moves above are one family: **contrast**. People understand a thing by comparing it with something else, so a hook that sets up two states, two options, or two groups gives the viewer a question to stay for. That is also why AI copy leans on "it's not X, it's Y." The difference is that a good contrast hook compares two things the audience actually weighs, while the AI tell negates a claim nobody made (see the copywriting skill's AI-tells reference). Contrast hooks work best for educational content and decisions; for impulse products, lead with proof or POV instead.
 
 ---
 

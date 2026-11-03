@@ -37,7 +37,7 @@ Current versions of all skills. Agents can compare against local versions to che
 | marketing-loops | 1.7.0 | 2026-10-30 |
 | marketing-plan | 1.2.2 | 2026-10-12 |
 | marketing-psychology | 2.0.0 | 2026-05-05 |
-| meta-ads | 1.0.0 | 2026-06-12 |
+| meta-ads | 1.1.0 | 2026-11-03 |
 | offers | 1.0.3 | 2026-10-27 |
 | onboarding | 2.0.2 | 2026-10-12 |
 | ads | 2.7.0 | 2026-10-26 |
